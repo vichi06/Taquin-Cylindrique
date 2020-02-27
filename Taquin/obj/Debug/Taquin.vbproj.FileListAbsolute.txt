@@ -1,0 +1,16 @@
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\bin\Debug\TaquinCylindrique.exe.config
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\bin\Debug\TaquinCylindrique.exe
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\bin\Debug\TaquinCylindrique.pdb
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\bin\Debug\TaquinCylindrique.xml
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.vbprojAssemblyReference.cache
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.Accueil.resources
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.PartieEnCours.resources
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.Options.resources
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.Recapitulatif.resources
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.Resources.resources
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.Solution.resources
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.vbproj.GenerateResource.cache
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\Taquin.vbproj.CoreCompileInputs.cache
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\TaquinCylindrique.exe
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\TaquinCylindrique.xml
+C:\Users\Vincent\Documents\DUT 1ere année\2eme semestre\PERIODE D\IHM VB\Projet IHM VB\TP1SEM3\obj\Debug\TaquinCylindrique.pdb
